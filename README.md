@@ -34,4 +34,5 @@ ifconfig
 
 ## 📸 Resultado
 
-![Screenshot_10](https://github.com/user-attachments/assets/a5ef76e3-41d5-4d5b-8ac4-0c6403b18874)
+![Screenshot_10](https://github.com/user-attachments/assets/ac3c3262-ba5e-4840-a993-23e3357ef0d5)
+
